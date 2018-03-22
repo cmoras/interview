@@ -1,0 +1,20 @@
+FSCK server, be it / or /home or /var
+InnoDB recovery
+Raid not optimal - Hardware
+Raid optimal - Software
+Controller swap
+Media error - Drive/RAM swap
+Memory/RAM upgrade
+BBU swap
+Disk alert - Migration
+Backups not running
+Zabbix agent/server not running
+Performance issues - I/O, Memory
+Malware attack
+DDOS attack
+Power supply failure
+Temperature Alerts / IPMI Hash changed
+Packet Loss
+Null route / IP blacklisted
+Backup /Restoration
+Backups not running
